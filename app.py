@@ -89,7 +89,7 @@ def main():
     prompt = PROMPT_TEMPLATE.format(raw_notes=raw_notes)
 
     with client.messages.stream(
-        model="claude-opus-4-6",
+        model="claude-sonnet-4-6",
         max_tokens=2048,
         thinking={"type": "adaptive"},
         system=[{
