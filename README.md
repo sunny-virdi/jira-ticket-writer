@@ -2,7 +2,7 @@
 Turn raw notes into structured JIRA tickets in seconds.
 
 ## The User
-PMs and engineers who waste time formatting messy notes, 
+Product managers who waste time formatting messy notes, 
 Slack threads, and meeting scribbles into proper JIRA tickets.
 
 ## The Problem
