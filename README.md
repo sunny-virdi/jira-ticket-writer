@@ -23,3 +23,6 @@ Ready to copy into JIRA in 30 seconds.
 
 ## Status
 🚧 In development — Sprint 1
+
+## Roadmap
+- [ ] Direct JIRA API integration (requested by 1 user — validating output quality first)
